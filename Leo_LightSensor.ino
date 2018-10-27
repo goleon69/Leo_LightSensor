@@ -1,4 +1,3 @@
-//test
 bool debug = true; // debug off
 String errore =""; //string for error check across the libraries
 int LightSensorAnalogPort = 0; //Analog port where the light sensor is connected
